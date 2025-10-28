@@ -1,0 +1,5 @@
+Keyframe 1: Lat 21.14, Lon 79.09, Alt 462m, H 97°, T 75°
+Keyframe 3: Lat 21.14, Lon 79.10, Alt 462m, H 97°, T 77°
+Keyframe 4: Lat 21.14, Lon 79.12, Alt 462m, H 171°, T 77°
+Keyframe 5: Lat 21.14, Lon 79.13, Alt 700m, H 243°, T 80°
+Keyframe 6: Lat 21.15, Lon 79.14, Alt 400m, H 243°, T 80°
